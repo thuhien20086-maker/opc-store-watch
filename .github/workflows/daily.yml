@@ -1,0 +1,28 @@
+name: daily-watch
+on:
+  schedule:
+    - cron: '10 13 * * *'   # UTC 13:10 = 北京 21:10
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: 抓取并生成看板
+        run: python watch.py
+      - name: 提交更新
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --staged --quiet; then
+            echo "no change"
+          else
+            git commit -m "watch: $(TZ=Asia/Shanghai date +%F)"
+            git push
+          fi
