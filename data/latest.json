@@ -2,7 +2,7 @@
  {
   "android_url": "",
   "created_at": "2026-10-12T16:48:55.223273+08:00",
-  "description": "为你提供支付宝支付通道，碳基圈和支付宝共同打造。不需要注册公司，不需要再办一大堆证 就可以在你的网站接入支付。资金进入你的支付宝。",
+  "description": "为你提供支付宝支付通道，碳基圈和支付宝共同打造。没有公司也可以接入，只需要手机号申请。资金由支付宝处理，平台不涉及资金。框架已开源https://github.com/Yapie0/opcpay   npm使用 npm install opcpay",
   "id": "opc_4dedf51e52030b9c369c2da78956fd94",
   "ios_url": "",
   "logo_thumbnail_2x_url": "/opcpay/api/v1/opc/products/opc_4dedf51e52030b9c369c2da78956fd94/images/logo?size=192&v=wm2.thumb1.10733e60cfff68ea",
@@ -14,9 +14,9 @@
   "name": "一人付",
   "owner_id": 1,
   "owner_name": "Yapie",
-  "rating": 4.7,
-  "review_count": 3,
-  "view_count": 2608,
+  "rating": 4.3,
+  "review_count": 4,
+  "view_count": 3566,
   "web_url": "",
   "website_url": "https://ai6666.com/opcpay/"
  },
@@ -37,7 +37,7 @@
   "owner_name": "Yapie",
   "rating": 5,
   "review_count": 1,
-  "view_count": 466,
+  "view_count": 471,
   "web_url": "",
   "website_url": "https://musicapi.top/"
  },
@@ -58,7 +58,7 @@
   "owner_name": "Yapie",
   "rating": 5,
   "review_count": 2,
-  "view_count": 453,
+  "view_count": 471,
   "web_url": "",
   "website_url": "https://ai6666.com/"
  },
@@ -79,30 +79,30 @@
   "owner_name": "碳基圈_668d37",
   "rating": 5,
   "review_count": 2,
-  "view_count": 372,
+  "view_count": 378,
   "web_url": "",
   "website_url": "https://veilline.com/"
  },
  {
-  "android_url": "https://static.xupanai.com/files/2610/16/a9361745afca4790236f0125edf490e8edb14f5ce54092ac845e1bef99114569.apk",
+  "android_url": "",
   "created_at": "2026-10-23T21:13:46.986622+08:00",
-  "description": "A股散户的个人股票交易AI助理，帮助分析问诊交易行为，训练交易纪律，并通过智能体把专业投研和分析能力降维提供给用户，通过AI诊断、线下咨询和线上学习，提高股票交易行为纪律和盈利能力，主打将看盘交给AI助理，把时间留给自己。",
+  "description": "A股散户的个人股票交易AI助理，帮助分析问诊交易行为，训练交易纪律，并通过智能体把专业投研和分析能力降维提供给用户，通过AI诊断、线下咨询和线上学习，提高股票交易行为纪律和盈利能力，主打将看盘交给AI助理，把时间留给自己。叙盘AI（10万奖金打比赛，送iphone duo）",
   "id": "opc_5f8aecea47e829287ea65623de0058e5",
   "ios_url": "",
-  "logo_thumbnail_2x_url": "/opcpay/api/v1/opc/products/opc_5f8aecea47e829287ea65623de0058e5/images/logo?size=192&v=wm2.thumb1.31e67e65862ef223",
-  "logo_thumbnail_url": "/opcpay/api/v1/opc/products/opc_5f8aecea47e829287ea65623de0058e5/images/logo?size=96&v=wm2.thumb1.31e67e65862ef223",
-  "logo_url": "/opcpay/api/v1/opc/products/opc_5f8aecea47e829287ea65623de0058e5/images/logo?v=wm2.31e67e65862ef223",
-  "miniprogram_link": "",
-  "miniprogram_qr_id": "0b63a0985393cb59844dc82f07da38a4b4a064d74ace55b81e17a134817e5df8",
-  "miniprogram_qr_url": "/opcpay/api/v1/opc/products/opc_5f8aecea47e829287ea65623de0058e5/images/miniprogram?v=wm2.c238bd61abc2ec5d",
-  "name": "叙盘AI",
+  "logo_thumbnail_2x_url": "/opcpay/api/v1/opc/products/opc_5f8aecea47e829287ea65623de0058e5/images/logo?size=192&v=wm2.thumb1.bae259e412dbab75",
+  "logo_thumbnail_url": "/opcpay/api/v1/opc/products/opc_5f8aecea47e829287ea65623de0058e5/images/logo?size=96&v=wm2.thumb1.bae259e412dbab75",
+  "logo_url": "/opcpay/api/v1/opc/products/opc_5f8aecea47e829287ea65623de0058e5/images/logo?v=wm2.bae259e412dbab75",
+  "miniprogram_link": "#小程序://叙盘/GktGABt4dd2RJDC",
+  "miniprogram_qr_id": "907b2a81fa7ee567c38ff223619add91d18a2f44e2b546bd819cd0f9c566f8b8",
+  "miniprogram_qr_url": "/opcpay/api/v1/opc/products/opc_5f8aecea47e829287ea65623de0058e5/images/miniprogram?v=wm2.902b3a3e9f3e5348",
+  "name": "叙盘AI（10万奖金打比赛，亏最多送iphone duo）",
   "owner_id": 25332,
   "owner_name": "doodle",
-  "rating": 0,
-  "review_count": 0,
-  "view_count": 1698,
+  "rating": 3.7,
+  "review_count": 3,
+  "view_count": 3198,
   "web_url": "",
-  "website_url": "https://www.xupanai.com/"
+  "website_url": ""
  },
  {
   "android_url": "",
@@ -121,7 +121,7 @@
   "owner_name": "智信聚合",
   "rating": 5,
   "review_count": 1,
-  "view_count": 312,
+  "view_count": 314,
   "web_url": "",
   "website_url": "https://www.jisuanapi.com/sign-up?aff=6z1h"
  },
@@ -142,7 +142,7 @@
   "owner_name": "我是人",
   "rating": 0,
   "review_count": 0,
-  "view_count": 237,
+  "view_count": 248,
   "web_url": "",
   "website_url": "https://hkjianghu.bew.guru/"
  },
@@ -163,7 +163,7 @@
   "owner_name": "碳基圈_e606ca",
   "rating": 0,
   "review_count": 0,
-  "view_count": 119,
+  "view_count": 121,
   "web_url": "",
   "website_url": "https://r2i84a.chat/"
  },
@@ -184,7 +184,7 @@
   "owner_name": "金建彤",
   "rating": 0,
   "review_count": 0,
-  "view_count": 105,
+  "view_count": 107,
   "web_url": "",
   "website_url": "https://xue.jinboshiai.com/"
  },
@@ -205,7 +205,7 @@
   "owner_name": "金建彤",
   "rating": 0,
   "review_count": 0,
-  "view_count": 68,
+  "view_count": 71,
   "web_url": "",
   "website_url": "https://jinboshiai.com/"
  },
@@ -247,7 +247,7 @@
   "owner_name": "碳基圈_461d09",
   "rating": 0,
   "review_count": 0,
-  "view_count": 71,
+  "view_count": 72,
   "web_url": "",
   "website_url": "https://blxai.cn/"
  },
@@ -268,7 +268,7 @@
   "owner_name": "碳基圈_461d09",
   "rating": 0,
   "review_count": 0,
-  "view_count": 118,
+  "view_count": 123,
   "web_url": "",
   "website_url": "https://blxai.cn/open/"
  },
@@ -289,7 +289,7 @@
   "owner_name": "美生",
   "rating": 0,
   "review_count": 0,
-  "view_count": 111,
+  "view_count": 113,
   "web_url": "",
   "website_url": "https://hepengyuan.com/"
  },
@@ -310,7 +310,7 @@
   "owner_name": "碳基圈_b848e1",
   "rating": 0,
   "review_count": 0,
-  "view_count": 89,
+  "view_count": 94,
   "web_url": "",
   "website_url": "http://xx.xx.cn/"
  },
@@ -352,7 +352,7 @@
   "owner_name": "院长红尘",
   "rating": 0,
   "review_count": 0,
-  "view_count": 357,
+  "view_count": 360,
   "web_url": "",
   "website_url": "https://im14.cn/"
  },
@@ -394,7 +394,7 @@
   "owner_name": "云韵",
   "rating": 0,
   "review_count": 0,
-  "view_count": 37,
+  "view_count": 39,
   "web_url": "",
   "website_url": "https://m.alphaymall.com/"
  },
@@ -436,7 +436,7 @@
   "owner_name": "碳基圈_bd0080",
   "rating": 5,
   "review_count": 3,
-  "view_count": 243,
+  "view_count": 255,
   "web_url": "",
   "website_url": "https://aicanvas.qnlinking.com/"
  },
@@ -457,7 +457,7 @@
   "owner_name": "Washington",
   "rating": 5,
   "review_count": 1,
-  "view_count": 56,
+  "view_count": 57,
   "web_url": "",
   "website_url": "https://idea-flash.me/musey"
  },
@@ -499,7 +499,7 @@
   "owner_name": "碳基圈_3773bd",
   "rating": 0,
   "review_count": 0,
-  "view_count": 20,
+  "view_count": 21,
   "web_url": "",
   "website_url": "https://yyy.test.com/"
  },
@@ -541,7 +541,7 @@
   "owner_name": "梦小孩",
   "rating": 5,
   "review_count": 3,
-  "view_count": 72,
+  "view_count": 74,
   "web_url": "",
   "website_url": "https://dsh.ailishishu.com/"
  },
@@ -562,7 +562,7 @@
   "owner_name": "梦小孩",
   "rating": 5,
   "review_count": 3,
-  "view_count": 52,
+  "view_count": 55,
   "web_url": "",
   "website_url": "https://shenlanai.com/"
  },
@@ -583,7 +583,7 @@
   "owner_name": "梦小孩",
   "rating": 5,
   "review_count": 3,
-  "view_count": 203,
+  "view_count": 210,
   "web_url": "",
   "website_url": "https://chatgpt7.com/"
  },
@@ -604,7 +604,7 @@
   "owner_name": "梦小孩",
   "rating": 5,
   "review_count": 4,
-  "view_count": 78,
+  "view_count": 80,
   "web_url": "",
   "website_url": "https://ailishishu.com/"
  },
@@ -667,7 +667,7 @@
   "owner_name": "碳基圈_17b10f",
   "rating": 0,
   "review_count": 0,
-  "view_count": 37,
+  "view_count": 38,
   "web_url": "",
   "website_url": "http://www.fns.com/"
  },
@@ -688,7 +688,7 @@
   "owner_name": "谢家辞",
   "rating": 0,
   "review_count": 0,
-  "view_count": 18,
+  "view_count": 20,
   "web_url": "",
   "website_url": "https://jiacigzs.com/"
  },
@@ -793,7 +793,7 @@
   "owner_name": "碳基圈_0bb196",
   "rating": 0,
   "review_count": 0,
-  "view_count": 38,
+  "view_count": 39,
   "web_url": "",
   "website_url": "https://onmeai.cn/"
  },
@@ -835,7 +835,7 @@
   "owner_name": "碳基圈_0bb196",
   "rating": 0,
   "review_count": 0,
-  "view_count": 11,
+  "view_count": 13,
   "web_url": "",
   "website_url": "https://onmeai.cn/"
  },
@@ -856,7 +856,7 @@
   "owner_name": "碳基圈_0bb196",
   "rating": 0,
   "review_count": 0,
-  "view_count": 50,
+  "view_count": 53,
   "web_url": "",
   "website_url": "https://onmeai.cn/"
  },
@@ -919,7 +919,7 @@
   "owner_name": "碳基圈_0bb196",
   "rating": 0,
   "review_count": 0,
-  "view_count": 36,
+  "view_count": 37,
   "web_url": "",
   "website_url": "https://onmeai.cn/"
  },
@@ -940,7 +940,7 @@
   "owner_name": "碳基圈_0bb196",
   "rating": 0,
   "review_count": 0,
-  "view_count": 62,
+  "view_count": 64,
   "web_url": "",
   "website_url": "https://onmeai.cn/"
  },
@@ -961,7 +961,7 @@
   "owner_name": "碳基圈_0bb196",
   "rating": 0,
   "review_count": 0,
-  "view_count": 31,
+  "view_count": 32,
   "web_url": "",
   "website_url": "https://onmeai.cn/"
  },
@@ -1003,7 +1003,7 @@
   "owner_name": "碳基圈_0bb196",
   "rating": 0,
   "review_count": 0,
-  "view_count": 30,
+  "view_count": 31,
   "web_url": "",
   "website_url": "https://onmeai.cn/"
  },
@@ -1024,7 +1024,7 @@
   "owner_name": "碳基圈_0bb196",
   "rating": 0,
   "review_count": 0,
-  "view_count": 23,
+  "view_count": 24,
   "web_url": "",
   "website_url": "https://onmeai.cn/"
  },
@@ -1045,7 +1045,7 @@
   "owner_name": "碳基圈_0bb196",
   "rating": 0,
   "review_count": 0,
-  "view_count": 20,
+  "view_count": 21,
   "web_url": "",
   "website_url": "https://onmeai.cn/"
  },
@@ -1213,7 +1213,7 @@
   "owner_name": "笨蛋音乐家.",
   "rating": 0,
   "review_count": 0,
-  "view_count": 37,
+  "view_count": 38,
   "web_url": "",
   "website_url": "https://www.kaquanwang.cn/price-check/%E8%AE%A4%E8%AF%81"
  },
@@ -1234,7 +1234,7 @@
   "owner_name": "梦小孩",
   "rating": 0,
   "review_count": 0,
-  "view_count": 17,
+  "view_count": 19,
   "web_url": "",
   "website_url": "https://shenlanai.com/"
  },
@@ -1318,7 +1318,7 @@
   "owner_name": "碳基圈_5179a3",
   "rating": 5,
   "review_count": 1,
-  "view_count": 108,
+  "view_count": 109,
   "web_url": "",
   "website_url": "https://quwanci.com/"
  },
@@ -1360,7 +1360,7 @@
   "owner_name": "墨斗网文写作工具",
   "rating": 5,
   "review_count": 1,
-  "view_count": 722,
+  "view_count": 797,
   "web_url": "",
   "website_url": "https://xn--2osw41a.cn/"
  },
@@ -1381,7 +1381,7 @@
   "owner_name": "山风岚自起",
   "rating": 0,
   "review_count": 0,
-  "view_count": 28,
+  "view_count": 107,
   "web_url": "",
   "website_url": "https://ai-project-os.com/"
  },
@@ -1507,7 +1507,7 @@
   "owner_name": "谢家辞",
   "rating": 0,
   "review_count": 0,
-  "view_count": 11,
+  "view_count": 12,
   "web_url": "",
   "website_url": "http://jiacigzs.com/"
  },
@@ -1633,7 +1633,7 @@
   "owner_name": "碳基圈_d0f15e",
   "rating": 5,
   "review_count": 2,
-  "view_count": 30,
+  "view_count": 31,
   "web_url": "",
   "website_url": "https://apps.apple.com/app/id6801094678"
  },
@@ -1675,7 +1675,7 @@
   "owner_name": "编程新兵(圆)",
   "rating": 0,
   "review_count": 0,
-  "view_count": 12,
+  "view_count": 15,
   "web_url": "",
   "website_url": "https://feedback.suggix.com/"
  },
@@ -1801,7 +1801,7 @@
   "owner_name": "碳基圈_730472",
   "rating": 5,
   "review_count": 35,
-  "view_count": 514,
+  "view_count": 559,
   "web_url": "",
   "website_url": "https://circle.inkgai.com/c/moyun"
  },
@@ -1843,7 +1843,7 @@
   "owner_name": "碳基圈_730472",
   "rating": 5,
   "review_count": 25,
-  "view_count": 411,
+  "view_count": 426,
   "web_url": "",
   "website_url": "https://tutu.inkgai.com/"
  },
@@ -1927,7 +1927,7 @@
   "owner_name": "碳基圈_8606e5",
   "rating": 0,
   "review_count": 0,
-  "view_count": 7,
+  "view_count": 8,
   "web_url": "",
   "website_url": "https://aiyourway.cn/tsti"
  },
@@ -1969,7 +1969,7 @@
   "owner_name": "碳基圈_cc95ff",
   "rating": 0,
   "review_count": 0,
-  "view_count": 20,
+  "view_count": 21,
   "web_url": "",
   "website_url": "http://www.fastbi.cn/"
  },
@@ -2011,7 +2011,7 @@
   "owner_name": "仙女呀",
   "rating": 0,
   "review_count": 0,
-  "view_count": 36,
+  "view_count": 37,
   "web_url": "",
   "website_url": "https://www.maxq.top/"
  },
@@ -2053,7 +2053,7 @@
   "owner_name": "碳基圈_730472",
   "rating": 5,
   "review_count": 19,
-  "view_count": 497,
+  "view_count": 511,
   "web_url": "",
   "website_url": "https://data.inkgai.com/"
  },
@@ -2158,7 +2158,7 @@
   "owner_name": "碳基圈_65be40",
   "rating": 0,
   "review_count": 0,
-  "view_count": 19,
+  "view_count": 20,
   "web_url": "",
   "website_url": "https://www.baidu11.com/"
  },
@@ -2179,7 +2179,7 @@
   "owner_name": "hboot",
   "rating": 0,
   "review_count": 0,
-  "view_count": 15,
+  "view_count": 16,
   "web_url": "",
   "website_url": "https://bgremove.hboot.fun/"
  },
@@ -2200,7 +2200,7 @@
   "owner_name": "碳基圈_bcbdc8",
   "rating": 0,
   "review_count": 0,
-  "view_count": 6,
+  "view_count": 8,
   "web_url": "",
   "website_url": "https://aigc.makur.top/"
  },
@@ -2221,7 +2221,7 @@
   "owner_name": "LJW",
   "rating": 0,
   "review_count": 0,
-  "view_count": 25,
+  "view_count": 28,
   "web_url": "",
   "website_url": "https://witchhome.site/"
  },
@@ -2326,7 +2326,7 @@
   "owner_name": "碳基圈_66c0da",
   "rating": 5,
   "review_count": 2,
-  "view_count": 485,
+  "view_count": 486,
   "web_url": "",
   "website_url": "https://lao1.me/"
  },
@@ -2410,7 +2410,7 @@
   "owner_name": "hboot",
   "rating": 0,
   "review_count": 0,
-  "view_count": 17,
+  "view_count": 18,
   "web_url": "",
   "website_url": "https://ai.hboot.fun/"
  },
@@ -2494,7 +2494,7 @@
   "owner_name": "Dawn",
   "rating": 5,
   "review_count": 1,
-  "view_count": 65,
+  "view_count": 66,
   "web_url": "",
   "website_url": "https://rensendream.com/"
  },
@@ -2536,7 +2536,7 @@
   "owner_name": "碳基圈_db9d51",
   "rating": 0,
   "review_count": 0,
-  "view_count": 6,
+  "view_count": 7,
   "web_url": "",
   "website_url": "https://o222nmeai.cn/"
  },
@@ -2662,7 +2662,7 @@
   "owner_name": "碳基圈_563dc6",
   "rating": 0,
   "review_count": 0,
-  "view_count": 17,
+  "view_count": 18,
   "web_url": "",
   "website_url": "https://apps.microsoft.com/store/detail/9N1D0GFFJML7?cid=DevShareMCLPCS"
  },
@@ -2851,7 +2851,7 @@
   "owner_name": "碳基圈_26ffed",
   "rating": 5,
   "review_count": 1,
-  "view_count": 10,
+  "view_count": 11,
   "web_url": "",
   "website_url": "https://oek.cn/"
  },
@@ -2872,7 +2872,7 @@
   "owner_name": "碳基圈_107f35",
   "rating": 5,
   "review_count": 1,
-  "view_count": 33,
+  "view_count": 36,
   "web_url": "",
   "website_url": "https://finoraai.cn/promo"
  },
@@ -3166,7 +3166,7 @@
   "owner_name": "碳基圈_e13147",
   "rating": 5,
   "review_count": 1,
-  "view_count": 100,
+  "view_count": 101,
   "web_url": "",
   "website_url": "https://car.whbi.net/login.php?redirect=%2F"
  },
@@ -3313,7 +3313,7 @@
   "owner_name": "大橙市",
   "rating": 0,
   "review_count": 0,
-  "view_count": 39,
+  "view_count": 111,
   "web_url": "",
   "website_url": "http://dh.dcsnet.cn/static/tools/minapp/bk/kj"
  },
@@ -3649,7 +3649,7 @@
   "owner_name": "碳基圈_2a4436",
   "rating": 5,
   "review_count": 1,
-  "view_count": 10,
+  "view_count": 11,
   "web_url": "",
   "website_url": "https://www.loongbones.com/"
  },
@@ -3796,7 +3796,7 @@
   "owner_name": "碳基圈_c7e40a",
   "rating": 0,
   "review_count": 0,
-  "view_count": 9,
+  "view_count": 10,
   "web_url": "",
   "website_url": "https://xiaoxigo.top/"
  },
@@ -4027,7 +4027,7 @@
   "owner_name": "碳基圈_7c37d2",
   "rating": 5,
   "review_count": 1,
-  "view_count": 60,
+  "view_count": 61,
   "web_url": "",
   "website_url": "https://www.pandatrade.store/"
  },
@@ -4360,7 +4360,7 @@
   "miniprogram_qr_url": "",
   "name": "连板网AI复盘",
   "owner_id": 131705,
-  "owner_name": "碳基圈_fecfc6",
+  "owner_name": "沉默是金",
   "rating": 5,
   "review_count": 1,
   "view_count": 9,
@@ -4468,7 +4468,7 @@
   "owner_name": "橘.",
   "rating": 0,
   "review_count": 0,
-  "view_count": 10,
+  "view_count": 12,
   "web_url": "",
   "website_url": "https://98715.xyz/"
  },
@@ -4720,7 +4720,7 @@
   "owner_name": "小马学长ᴬᴵᴬ",
   "rating": 0,
   "review_count": 0,
-  "view_count": 8,
+  "view_count": 9,
   "web_url": "",
   "website_url": "https://we-family.top/"
  },
@@ -5161,7 +5161,7 @@
   "owner_name": "碳基圈_979c37",
   "rating": 0,
   "review_count": 0,
-  "view_count": 1,
+  "view_count": 2,
   "web_url": "",
   "website_url": "http://47.114.50.209/"
  },
@@ -5602,7 +5602,7 @@
   "owner_name": "风不停息",
   "rating": 0,
   "review_count": 0,
-  "view_count": 12,
+  "view_count": 13,
   "web_url": "",
   "website_url": "https://hao.com/"
  },
@@ -5623,7 +5623,7 @@
   "owner_name": "碳基圈_0ae9e6",
   "rating": 0,
   "review_count": 0,
-  "view_count": 17,
+  "view_count": 18,
   "web_url": "",
   "website_url": ""
  },
@@ -5707,7 +5707,7 @@
   "owner_name": "碳基圈_07f911",
   "rating": 0,
   "review_count": 0,
-  "view_count": 4,
+  "view_count": 5,
   "web_url": "",
   "website_url": "https://vip.51goc.com/index/index.html"
  },
@@ -5728,7 +5728,7 @@
   "owner_name": "碳基圈_6f5da7",
   "rating": 0,
   "review_count": 0,
-  "view_count": 0,
+  "view_count": 1,
   "web_url": "",
   "website_url": "http://www.ibest.com/"
  },
@@ -5917,7 +5917,7 @@
   "owner_name": "碳基圈_eec003",
   "rating": 0,
   "review_count": 0,
-  "view_count": 3,
+  "view_count": 4,
   "web_url": "",
   "website_url": "https://12312356.xyz/"
  },
@@ -6316,7 +6316,7 @@
   "owner_name": "碳基圈_a94702",
   "rating": 0,
   "review_count": 0,
-  "view_count": 1,
+  "view_count": 3,
   "web_url": "",
   "website_url": "https://antquant.vip/"
  },
@@ -6757,7 +6757,7 @@
   "owner_name": "碳基圈_3a4eb7",
   "rating": 5,
   "review_count": 1,
-  "view_count": 137,
+  "view_count": 156,
   "web_url": "",
   "website_url": "https://quanter.ai-520.xyz/"
  },
@@ -10312,27 +10312,6 @@
  },
  {
   "android_url": "",
-  "created_at": "2026-10-28T14:04:08.601534+08:00",
-  "description": "",
-  "id": "opc_a440cfeac2cb9afb6b762797bb1c9637",
-  "ios_url": "",
-  "logo_thumbnail_2x_url": "/opcpay/api/v1/opc/products/opc_a440cfeac2cb9afb6b762797bb1c9637/images/logo?size=192&v=wm2.thumb1.541337a742484672",
-  "logo_thumbnail_url": "/opcpay/api/v1/opc/products/opc_a440cfeac2cb9afb6b762797bb1c9637/images/logo?size=96&v=wm2.thumb1.541337a742484672",
-  "logo_url": "/opcpay/api/v1/opc/products/opc_a440cfeac2cb9afb6b762797bb1c9637/images/logo?v=wm2.541337a742484672",
-  "miniprogram_link": "",
-  "miniprogram_qr_id": null,
-  "miniprogram_qr_url": "",
-  "name": "小蚂蚁购物",
-  "owner_id": 132341,
-  "owner_name": "王者AI",
-  "rating": 0,
-  "review_count": 0,
-  "view_count": 10,
-  "web_url": "",
-  "website_url": "https://www.xiaomayishop.com/"
- },
- {
-  "android_url": "",
   "created_at": "2026-10-28T14:11:55.577025+08:00",
   "description": "",
   "id": "opc_302eddbf8315b7ee0579b65d87c8b555",
@@ -11293,7 +11272,7 @@
   "owner_name": "碳基圈_81ff7c",
   "rating": 0,
   "review_count": 0,
-  "view_count": 1,
+  "view_count": 2,
   "web_url": "",
   "website_url": "https://jiqi1.yangzf.xyz/"
  },
@@ -11419,7 +11398,7 @@
   "owner_name": "姜伯約.",
   "rating": 0,
   "review_count": 0,
-  "view_count": 1,
+  "view_count": 2,
   "web_url": "",
   "website_url": "https://paydemo.jianglang1892.xyz/"
  },
@@ -11776,7 +11755,7 @@
   "owner_name": "碳基圈_022f54",
   "rating": 0,
   "review_count": 0,
-  "view_count": 1,
+  "view_count": 3,
   "web_url": "",
   "website_url": "https://shenlangbianlidian.xyz/studio"
  },
@@ -12196,7 +12175,7 @@
   "owner_name": "AI智能投研分析",
   "rating": 5,
   "review_count": 4,
-  "view_count": 102,
+  "view_count": 210,
   "web_url": "",
   "website_url": "https://stock.tk0755.top/"
  },
@@ -12308,7 +12287,7 @@
  {
   "android_url": "",
   "created_at": "2026-10-28T21:32:28.55259+08:00",
-  "description": "",
+  "description": "用于国内外电商图片设计，高精美的图片设计，免费10张测试，底层市场AI完全不一样，欢迎测试，",
   "id": "opc_02012ab96c89666dd3df3d5b0b841eb3",
   "ios_url": "",
   "logo_thumbnail_2x_url": "/opcpay/api/v1/opc/products/opc_02012ab96c89666dd3df3d5b0b841eb3/images/logo?size=192&v=wm2.thumb1.1009b696c5eca8d7",
@@ -12322,7 +12301,7 @@
   "owner_name": "碳基圈-柏旺",
   "rating": 0,
   "review_count": 0,
-  "view_count": 0,
+  "view_count": 37,
   "web_url": "",
   "website_url": "https://xtn666.top/"
  },
@@ -12721,7 +12700,7 @@
   "owner_name": "SoccerDreamAI",
   "rating": 0,
   "review_count": 0,
-  "view_count": 50,
+  "view_count": 348,
   "web_url": "",
   "website_url": "https://soccerdreamai.com/"
  },
@@ -12931,7 +12910,7 @@
   "owner_name": "小小虾",
   "rating": 5,
   "review_count": 1,
-  "view_count": 7,
+  "view_count": 8,
   "web_url": "",
   "website_url": "https://www.toolpro.cc/tool/writer-assistant"
  },
@@ -13351,7 +13330,7 @@
   "owner_name": "碳基圈_c250d1",
   "rating": 5,
   "review_count": 1,
-  "view_count": 79,
+  "view_count": 103,
   "web_url": "",
   "website_url": "http://1234567ai.com/"
  },
@@ -13421,21 +13400,21 @@
  {
   "android_url": "",
   "created_at": "2026-10-28T23:50:02.852029+08:00",
-  "description": "把AI输出的Markdown文本一键排成一份能直接打印的PDF文档,直连打印流程和轻松导出成PDF文件的工具应用",
+  "description": "把AI输出的高质量答案粘贴复制一键导出PDF或者打印出来反复阅读,消化.  粘贴->预览->打印",
   "id": "opc_a69796a8185e7155ddd1f2f40933c7f6",
   "ios_url": "",
-  "logo_thumbnail_2x_url": "/opcpay/api/v1/opc/products/opc_a69796a8185e7155ddd1f2f40933c7f6/images/logo?size=192&v=wm2.thumb1.eea0d38fde93ca0c",
-  "logo_thumbnail_url": "/opcpay/api/v1/opc/products/opc_a69796a8185e7155ddd1f2f40933c7f6/images/logo?size=96&v=wm2.thumb1.eea0d38fde93ca0c",
-  "logo_url": "/opcpay/api/v1/opc/products/opc_a69796a8185e7155ddd1f2f40933c7f6/images/logo?v=wm2.eea0d38fde93ca0c",
+  "logo_thumbnail_2x_url": "/opcpay/api/v1/opc/products/opc_a69796a8185e7155ddd1f2f40933c7f6/images/logo?size=192&v=wm2.thumb1.d51927ec80a7a897",
+  "logo_thumbnail_url": "/opcpay/api/v1/opc/products/opc_a69796a8185e7155ddd1f2f40933c7f6/images/logo?size=96&v=wm2.thumb1.d51927ec80a7a897",
+  "logo_url": "/opcpay/api/v1/opc/products/opc_a69796a8185e7155ddd1f2f40933c7f6/images/logo?v=wm2.d51927ec80a7a897",
   "miniprogram_link": "",
   "miniprogram_qr_id": null,
   "miniprogram_qr_url": "",
-  "name": "md2pdf",
+  "name": "Md2Pdf",
   "owner_id": 106468,
-  "owner_name": "碳基圈_29f520",
+  "owner_name": "Arex",
   "rating": 0,
   "review_count": 0,
-  "view_count": 1,
+  "view_count": 126,
   "web_url": "",
   "website_url": "https://www.pixelapp.store/"
  },
@@ -15698,7 +15677,7 @@
   "miniprogram_link": "",
   "miniprogram_qr_id": null,
   "miniprogram_qr_url": "",
-  "name": "muse成品",
+  "name": "muse成品（310亿）",
   "owner_id": 132780,
   "owner_name": "碳基圈_156ccd",
   "rating": 0,
@@ -16798,5 +16777,26 @@
   "view_count": 1,
   "web_url": "",
   "website_url": "https://deepse3k.com/"
+ },
+ {
+  "android_url": "",
+  "created_at": "2026-10-29T18:11:18.063082+08:00",
+  "description": "通过钉钉消息远程控制浏览器，自动执行各类网页操作。录制一次流程，定时重复执行，解放双手。",
+  "id": "opc_6c75977b6cd07afdeaa72e9a6e27286a",
+  "ios_url": "",
+  "logo_thumbnail_2x_url": "/opcpay/api/v1/opc/products/opc_6c75977b6cd07afdeaa72e9a6e27286a/images/logo?size=192&v=wm2.thumb1.e761298efa752995",
+  "logo_thumbnail_url": "/opcpay/api/v1/opc/products/opc_6c75977b6cd07afdeaa72e9a6e27286a/images/logo?size=96&v=wm2.thumb1.e761298efa752995",
+  "logo_url": "/opcpay/api/v1/opc/products/opc_6c75977b6cd07afdeaa72e9a6e27286a/images/logo?v=wm2.e761298efa752995",
+  "miniprogram_link": "",
+  "miniprogram_qr_id": null,
+  "miniprogram_qr_url": "",
+  "name": "RPA 自动化",
+  "owner_id": 132940,
+  "owner_name": "碳基圈_dcfc2b",
+  "rating": 0,
+  "review_count": 0,
+  "view_count": 0,
+  "web_url": "",
+  "website_url": "https://www.cztools.ccwu.cc/"
  }
 ]
