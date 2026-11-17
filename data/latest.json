@@ -17,9 +17,9 @@
   "owner_id": 1,
   "owner_name": "Yapie",
   "owner_profile_url": "/accounts/profile/u/39bd98/",
-  "rating": 4.1,
-  "review_count": 8,
-  "view_count": 16863,
+  "rating": 3.8,
+  "review_count": 9,
+  "view_count": 17629,
   "web_url": "",
   "website_url": "https://ai6666.com/opcpay/",
   "windows_url": ""
@@ -44,7 +44,7 @@
   "owner_profile_url": "/accounts/profile/u/39bd98/",
   "rating": 3,
   "review_count": 2,
-  "view_count": 8960,
+  "view_count": 9445,
   "web_url": "",
   "website_url": "https://musicapi.top/",
   "windows_url": ""
@@ -65,11 +65,11 @@
   "name": "貂蝉静点餐系统",
   "owner_dm_url": "/messages/dm/u/05f4fa/",
   "owner_id": 131056,
-  "owner_name": "碳基圈_668d37",
+  "owner_name": "AI获客大王",
   "owner_profile_url": "/accounts/profile/u/05f4fa/",
   "rating": 5,
   "review_count": 2,
-  "view_count": 987,
+  "view_count": 998,
   "web_url": "",
   "website_url": "https://veilline.com/",
   "windows_url": ""
@@ -80,9 +80,9 @@
   "description": "A股散户的个人股票交易AI助理，帮助分析问诊交易行为，训练交易纪律，并通过智能体把专业投研和分析能力降维提供给用户，通过AI诊断、线下咨询和线上学习，提高股票交易行为纪律和盈利能力，主打将看盘交给AI助理，把时间留给自己。叙盘AI（10万奖金打比赛，送iphone duo）",
   "id": "opc_5f8aecea47e829287ea65623de0058e5",
   "ios_url": "",
-  "logo_thumbnail_2x_url": "/opcpay/api/v1/opc/products/opc_5f8aecea47e829287ea65623de0058e5/images/logo?size=192&v=wm2.thumb1.bae259e412dbab75",
-  "logo_thumbnail_url": "/opcpay/api/v1/opc/products/opc_5f8aecea47e829287ea65623de0058e5/images/logo?size=96&v=wm2.thumb1.bae259e412dbab75",
-  "logo_url": "/opcpay/api/v1/opc/products/opc_5f8aecea47e829287ea65623de0058e5/images/logo?v=wm2.bae259e412dbab75",
+  "logo_thumbnail_2x_url": "/opcpay/api/v1/opc/products/opc_5f8aecea47e829287ea65623de0058e5/images/logo?size=192&v=wm2.thumb1.ca7ea279d41d53f2",
+  "logo_thumbnail_url": "/opcpay/api/v1/opc/products/opc_5f8aecea47e829287ea65623de0058e5/images/logo?size=96&v=wm2.thumb1.ca7ea279d41d53f2",
+  "logo_url": "/opcpay/api/v1/opc/products/opc_5f8aecea47e829287ea65623de0058e5/images/logo?v=wm2.ca7ea279d41d53f2",
   "macos_url": "",
   "miniprogram_link": "#小程序://叙盘/GktGABt4dd2RJDC",
   "miniprogram_qr_id": "907b2a81fa7ee567c38ff223619add91d18a2f44e2b546bd819cd0f9c566f8b8",
@@ -92,9 +92,9 @@
   "owner_id": 25332,
   "owner_name": "doodle",
   "owner_profile_url": "/accounts/profile/u/55ff12/",
-  "rating": 2.8,
-  "review_count": 11,
-  "view_count": 24065,
+  "rating": 3,
+  "review_count": 12,
+  "view_count": 25535,
   "web_url": "",
   "website_url": "",
   "windows_url": ""
@@ -119,7 +119,7 @@
   "owner_profile_url": "/accounts/profile/u/ef6949/",
   "rating": 5,
   "review_count": 1,
-  "view_count": 838,
+  "view_count": 843,
   "web_url": "",
   "website_url": "https://www.jisuanapi.com/sign-up?aff=6z1h",
   "windows_url": ""
@@ -169,7 +169,7 @@
   "owner_profile_url": "/accounts/profile/u/e2b2ed/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 377,
+  "view_count": 379,
   "web_url": "",
   "website_url": "https://r2i84a.chat/",
   "windows_url": ""
@@ -194,7 +194,7 @@
   "owner_profile_url": "/accounts/profile/u/50a053/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 404,
+  "view_count": 410,
   "web_url": "",
   "website_url": "https://xue.jinboshiai.com/",
   "windows_url": ""
@@ -219,7 +219,7 @@
   "owner_profile_url": "/accounts/profile/u/50a053/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 228,
+  "view_count": 229,
   "web_url": "",
   "website_url": "https://jinboshiai.com/",
   "windows_url": ""
@@ -244,7 +244,7 @@
   "owner_profile_url": "/accounts/profile/u/fb83a9/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 214,
+  "view_count": 219,
   "web_url": "",
   "website_url": "https://mobile.yangkeduo.com/mall_page.html?ps=O00KG46xpH",
   "windows_url": ""
@@ -269,7 +269,7 @@
   "owner_profile_url": "/accounts/profile/u/c18312/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 250,
+  "view_count": 253,
   "web_url": "",
   "website_url": "https://blxai.cn/",
   "windows_url": ""
@@ -294,7 +294,7 @@
   "owner_profile_url": "/accounts/profile/u/c18312/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 407,
+  "view_count": 415,
   "web_url": "",
   "website_url": "https://blxai.cn/open/",
   "windows_url": ""
@@ -369,7 +369,7 @@
   "owner_profile_url": "/accounts/profile/u/82e186/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 139,
+  "view_count": 142,
   "web_url": "",
   "website_url": "https://aggieai.me/",
   "windows_url": ""
@@ -469,7 +469,7 @@
   "owner_profile_url": "/accounts/profile/u/83fa1f/",
   "rating": 5,
   "review_count": 3,
-  "view_count": 710,
+  "view_count": 717,
   "web_url": "",
   "website_url": "https://xcanvas.qiniu.com/",
   "windows_url": ""
@@ -494,7 +494,7 @@
   "owner_profile_url": "/accounts/profile/u/ce1488/",
   "rating": 5,
   "review_count": 1,
-  "view_count": 242,
+  "view_count": 243,
   "web_url": "",
   "website_url": "https://museyai.com/",
   "windows_url": ""
@@ -519,7 +519,7 @@
   "owner_profile_url": "/accounts/profile/u/d721fc/",
   "rating": 5,
   "review_count": 1,
-  "view_count": 176,
+  "view_count": 177,
   "web_url": "",
   "website_url": "https://labpilot.cn/",
   "windows_url": ""
@@ -594,7 +594,7 @@
   "owner_profile_url": "/accounts/profile/u/98cb93/",
   "rating": 5,
   "review_count": 3,
-  "view_count": 434,
+  "view_count": 438,
   "web_url": "",
   "website_url": "https://dsh.ailishishu.com/",
   "windows_url": ""
@@ -619,7 +619,7 @@
   "owner_profile_url": "/accounts/profile/u/98cb93/",
   "rating": 5,
   "review_count": 3,
-  "view_count": 273,
+  "view_count": 275,
   "web_url": "",
   "website_url": "https://shenlanai.com/",
   "windows_url": ""
@@ -644,7 +644,7 @@
   "owner_profile_url": "/accounts/profile/u/98cb93/",
   "rating": 5,
   "review_count": 3,
-  "view_count": 1083,
+  "view_count": 1100,
   "web_url": "",
   "website_url": "https://chatgpt7.com/",
   "windows_url": ""
@@ -669,7 +669,7 @@
   "owner_profile_url": "/accounts/profile/u/98cb93/",
   "rating": 5,
   "review_count": 4,
-  "view_count": 196,
+  "view_count": 197,
   "web_url": "",
   "website_url": "https://ailishishu.com/",
   "windows_url": ""
@@ -794,7 +794,7 @@
   "owner_profile_url": "/accounts/profile/u/3d84de/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 139,
+  "view_count": 141,
   "web_url": "",
   "website_url": "https://xfdzpal.cn/",
   "windows_url": ""
@@ -819,7 +819,7 @@
   "owner_profile_url": "/accounts/profile/u/1ffdb4/",
   "rating": 5,
   "review_count": 2,
-  "view_count": 131,
+  "view_count": 132,
   "web_url": "",
   "website_url": "https://ai.aigc321.com/",
   "windows_url": ""
@@ -844,7 +844,7 @@
   "owner_profile_url": "/accounts/profile/u/9ca892/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 75,
+  "view_count": 76,
   "web_url": "",
   "website_url": "https://www.xingqiushi.com/",
   "windows_url": ""
@@ -869,7 +869,7 @@
   "owner_profile_url": "/accounts/profile/u/bfe9c0/",
   "rating": 5,
   "review_count": 1,
-  "view_count": 106,
+  "view_count": 107,
   "web_url": "",
   "website_url": "https://www.kaliai.fun/app",
   "windows_url": ""
@@ -894,7 +894,7 @@
   "owner_profile_url": "/accounts/profile/u/c4a93c/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 110,
+  "view_count": 111,
   "web_url": "",
   "website_url": "https://onmeai.cn/",
   "windows_url": ""
@@ -944,7 +944,7 @@
   "owner_profile_url": "/accounts/profile/u/c4a93c/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 25,
+  "view_count": 26,
   "web_url": "",
   "website_url": "https://onmeai.cn/",
   "windows_url": ""
@@ -969,7 +969,7 @@
   "owner_profile_url": "/accounts/profile/u/c4a93c/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 281,
+  "view_count": 283,
   "web_url": "",
   "website_url": "https://onmeai.cn/",
   "windows_url": ""
@@ -994,7 +994,7 @@
   "owner_profile_url": "/accounts/profile/u/c4a93c/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 73,
+  "view_count": 74,
   "web_url": "",
   "website_url": "https://onmeai.cn/",
   "windows_url": ""
@@ -1017,9 +1017,9 @@
   "owner_id": 131332,
   "owner_name": "碳基圈_0bb196",
   "owner_profile_url": "/accounts/profile/u/c4a93c/",
-  "rating": 0,
-  "review_count": 0,
-  "view_count": 130,
+  "rating": 3,
+  "review_count": 1,
+  "view_count": 133,
   "web_url": "",
   "website_url": "https://onmeai.cn/",
   "windows_url": ""
@@ -1069,7 +1069,7 @@
   "owner_profile_url": "/accounts/profile/u/c4a93c/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 276,
+  "view_count": 278,
   "web_url": "",
   "website_url": "https://onmeai.cn/",
   "windows_url": ""
@@ -1144,7 +1144,7 @@
   "owner_profile_url": "/accounts/profile/u/c4a93c/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 115,
+  "view_count": 118,
   "web_url": "",
   "website_url": "https://onmeai.cn/",
   "windows_url": ""
@@ -1194,7 +1194,7 @@
   "owner_profile_url": "/accounts/profile/u/c4a93c/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 118,
+  "view_count": 119,
   "web_url": "",
   "website_url": "https://onmeai.cn/",
   "windows_url": ""
@@ -1319,7 +1319,7 @@
   "owner_profile_url": "/accounts/profile/u/b7a6f7/",
   "rating": 5,
   "review_count": 1,
-  "view_count": 69,
+  "view_count": 70,
   "web_url": "",
   "website_url": "https://www.duocaiduoyi.cn/",
   "windows_url": ""
@@ -1344,7 +1344,7 @@
   "owner_profile_url": "/accounts/profile/u/144479/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 369,
+  "view_count": 378,
   "web_url": "",
   "website_url": "https://ai.87dhw.cn/box",
   "windows_url": ""
@@ -1369,7 +1369,7 @@
   "owner_profile_url": "/accounts/profile/u/4fb2fc/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 131,
+  "view_count": 132,
   "web_url": "",
   "website_url": "https://dns.aike.ink/",
   "windows_url": ""
@@ -1394,7 +1394,7 @@
   "owner_profile_url": "/accounts/profile/u/426f71/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 85,
+  "view_count": 86,
   "web_url": "",
   "website_url": "https://www.kaquanwang.cn/price-check/%E8%AE%A4%E8%AF%81",
   "windows_url": ""
@@ -1419,7 +1419,7 @@
   "owner_profile_url": "/accounts/profile/u/98cb93/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 307,
+  "view_count": 395,
   "web_url": "",
   "website_url": "https://shenlanai.com/",
   "windows_url": ""
@@ -1444,7 +1444,7 @@
   "owner_profile_url": "/accounts/profile/u/b816bb/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 157,
+  "view_count": 158,
   "web_url": "",
   "website_url": "https://ziwei331.cn/",
   "windows_url": ""
@@ -1469,7 +1469,7 @@
   "owner_profile_url": "/accounts/profile/u/89aa5c/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 141,
+  "view_count": 142,
   "web_url": "",
   "website_url": "https://zibi-write.top/",
   "windows_url": ""
@@ -1477,12 +1477,12 @@
  {
   "android_url": "",
   "created_at": "2026-10-26T17:43:57.239979+08:00",
-  "description": " \n\n原创五音古琴疗愈音频｜两大系列 · 完整长曲无剪辑\n\n遵循传统五音音阶创作，三分损益律严谨调校，全程无4、7偏音。以仲尼式丝弦古琴为主奏，辅以埙、低音笛，曲风留白悠远，气息自然流动。\n\n「温润时光」系列 — 五调式 · 各归其时\n\n宫、商、角、徵、羽五调式齐备，各含独立曲目，色彩各异，顺应时辰聆听：\n\n角调 — 木音生发，清新舒展，宜清晨时分，晨起理绪、开启一日\n\n徵调 — 火音明快，热烈舒展，宜日中时分，专注劳作、提神醒志\n\n宫调 — 土音厚重，沉稳包容，宜午后时分，安定舒缓、中和心气\n\n商调 — 金音清肃，收敛肃降，宜傍晚时分，收束一日、沉淀心念\n\n羽调 — 水音深沉，内敛润下，宜入夜时分，静心内守、归于安宁\n\n「静心时空」系列 — 入夜聆听\n\n音色清寂空灵，气息疏淡沉静，在音声中放缓思绪，褪去白日纷杂，感受静谧松弛的夜间氛围。\n\n技术规格\n\n短视频仅放出片段试听，合集为完整长曲，320kbps 纯净无人声 MP3，音质干净通透。\n\n交付说明\n\n拍下后获取百度网盘压缩包链接，自行下载到本地，可本地循环播放。\n\n仅限个人聆听欣赏，禁止二次转发、传播、公播、商用。\n\n好作品，交付同频知音。\n\n \n\n",
+  "description": "原创五音古琴疗愈音频｜两大系列 \n#静心时空    #温润时光，\n完整长曲无剪辑\n\n遵循传统五音音阶创作，三分损益律严谨调校，全程无4、7偏音。以仲尼式丝弦古琴为主奏，辅以埙、低音笛，曲风留白悠远，气息自然流动。\n\n「温润时光」系列 — 五音时辰音乐\n宫、商、角、徵、羽五调式齐备，各含独立曲目，色彩各异，顺应时辰聆听：\n\n角调 — 木音生发，宜清晨时分，晨  起理绪、开启一日\n徵调 — 火音明快，热烈舒展，宜日中时分，提神醒志\n宫调 — 土音厚重，沉稳包容，宜午后时分，中和心气\n商调 — 金音清肃，宜傍晚时分，收束一日、沉淀心念\n羽调 — 水音深沉，内敛润下，宜入夜时分，静心内守、归于安宁\n\n「静心时空」系列 — 入夜聆听\n音色清寂空灵，气息疏淡沉静，在音声中放缓思绪，褪去白日纷杂，感受静谧松弛的夜间氛围。\n\n技术规格\n短视频仅放出片段试听，合集为完整长曲，320kbps 纯净无人声 MP3，音质干净通透。\n\n交付说明\n拍下后获取百度网盘压缩包链接，自行下载到本地，可本地循环播放。\n\n仅限个人聆听欣赏，禁止二次转发、传播、公播、商用。\n\n好作品，交付同频知音。\n\n \n\n",
   "id": "opc_fdc26923fedd2f4344c9a0ce351c0c83",
   "ios_url": "",
-  "logo_thumbnail_2x_url": "/opcpay/api/v1/opc/products/opc_fdc26923fedd2f4344c9a0ce351c0c83/images/logo?size=192&v=wm2.thumb1.b574aaac8078ac6c",
-  "logo_thumbnail_url": "/opcpay/api/v1/opc/products/opc_fdc26923fedd2f4344c9a0ce351c0c83/images/logo?size=96&v=wm2.thumb1.b574aaac8078ac6c",
-  "logo_url": "/opcpay/api/v1/opc/products/opc_fdc26923fedd2f4344c9a0ce351c0c83/images/logo?v=wm2.b574aaac8078ac6c",
+  "logo_thumbnail_2x_url": "/opcpay/api/v1/opc/products/opc_fdc26923fedd2f4344c9a0ce351c0c83/images/logo?size=192&v=wm2.thumb1.abbc7a09be1fb576",
+  "logo_thumbnail_url": "/opcpay/api/v1/opc/products/opc_fdc26923fedd2f4344c9a0ce351c0c83/images/logo?size=96&v=wm2.thumb1.abbc7a09be1fb576",
+  "logo_url": "/opcpay/api/v1/opc/products/opc_fdc26923fedd2f4344c9a0ce351c0c83/images/logo?v=wm2.abbc7a09be1fb576",
   "macos_url": "",
   "miniprogram_link": "",
   "miniprogram_qr_id": null,
@@ -1494,7 +1494,7 @@
   "owner_profile_url": "/accounts/profile/u/4bbd8e/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 103,
+  "view_count": 109,
   "web_url": "",
   "website_url": "https://ai6666.com/accounts/profile/46908/",
   "windows_url": ""
@@ -1569,7 +1569,7 @@
   "owner_profile_url": "/accounts/profile/u/dbb714/",
   "rating": 5,
   "review_count": 1,
-  "view_count": 3189,
+  "view_count": 3304,
   "web_url": "",
   "website_url": "https://xn--2osw41a.cn/",
   "windows_url": ""
@@ -1669,7 +1669,7 @@
   "owner_profile_url": "/accounts/profile/u/9c84a3/",
   "rating": 5,
   "review_count": 1,
-  "view_count": 156,
+  "view_count": 157,
   "web_url": "",
   "website_url": "https://./",
   "windows_url": ""
@@ -1744,7 +1744,7 @@
   "owner_profile_url": "/accounts/profile/u/02d9b4/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 43,
+  "view_count": 44,
   "web_url": "",
   "website_url": "http://jiacigzs.com/",
   "windows_url": ""
@@ -1794,7 +1794,7 @@
   "owner_profile_url": "/accounts/profile/u/b3e501/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 137,
+  "view_count": 139,
   "web_url": "",
   "website_url": "https://weixin.qq.com/sph/AuyZkdkeTm",
   "windows_url": ""
@@ -2069,7 +2069,7 @@
   "owner_profile_url": "/accounts/profile/u/86cb6c/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 23,
+  "view_count": 25,
   "web_url": "",
   "website_url": "https://sileqi.cn/",
   "windows_url": ""
@@ -2094,7 +2094,7 @@
   "owner_profile_url": "/accounts/profile/u/24f108/",
   "rating": 5,
   "review_count": 35,
-  "view_count": 2091,
+  "view_count": 2118,
   "web_url": "",
   "website_url": "https://circle.inkgai.com/c/moyun",
   "windows_url": ""
@@ -2119,7 +2119,7 @@
   "owner_profile_url": "/accounts/profile/u/c1a3e1/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 35,
+  "view_count": 37,
   "web_url": "",
   "website_url": "https://coollf.com/",
   "windows_url": ""
@@ -2144,7 +2144,7 @@
   "owner_profile_url": "/accounts/profile/u/24f108/",
   "rating": 5,
   "review_count": 25,
-  "view_count": 663,
+  "view_count": 667,
   "web_url": "",
   "website_url": "https://tutu.inkgai.com/",
   "windows_url": ""
@@ -2194,7 +2194,7 @@
   "owner_profile_url": "/accounts/profile/u/3ac83c/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 39,
+  "view_count": 42,
   "web_url": "",
   "website_url": "http://no.com/",
   "windows_url": ""
@@ -2327,7 +2327,7 @@
  {
   "android_url": "",
   "created_at": "2026-10-26T20:32:25.851773+08:00",
-  "description": "帮您整理最新的AI资讯以及分享最火的AI工具",
+  "description": "1、帮您整理最新的AI资讯以及分享最火的AI工具\n2、打开微信小程序搜索“码间观”，进入小程序-工具 即可看到所有工具，持续更新输出中\n3、扫码关注公众号即可订阅所有资讯信息以及AI工具",
   "id": "opc_bf994bdaf8cc619e5bb6df76e8ba75e6",
   "ios_url": "",
   "logo_thumbnail_2x_url": "/opcpay/api/v1/opc/products/opc_bf994bdaf8cc619e5bb6df76e8ba75e6/images/logo?size=192&v=wm2.thumb1.04758da0aad3c7c1",
@@ -2335,8 +2335,8 @@
   "logo_url": "/opcpay/api/v1/opc/products/opc_bf994bdaf8cc619e5bb6df76e8ba75e6/images/logo?v=wm2.04758da0aad3c7c1",
   "macos_url": "",
   "miniprogram_link": "",
-  "miniprogram_qr_id": null,
-  "miniprogram_qr_url": "",
+  "miniprogram_qr_id": "eedabbdfde098d536dd25cbd7e56d99ad0741fdd6a0a8d3ecb1af333a57a8cfb",
+  "miniprogram_qr_url": "/opcpay/api/v1/opc/products/opc_bf994bdaf8cc619e5bb6df76e8ba75e6/images/miniprogram?v=wm2.64a46e5c2886474a",
   "name": "Ai全栈Coding产品库",
   "owner_dm_url": "/messages/dm/u/b7aa51/",
   "owner_id": 47846,
@@ -2344,9 +2344,9 @@
   "owner_profile_url": "/accounts/profile/u/b7aa51/",
   "rating": 5,
   "review_count": 1,
-  "view_count": 104,
+  "view_count": 125,
   "web_url": "",
-  "website_url": "https://www.bilibili.com/video/BV1KzHV66EEy/?spm_id_from=333.1387.homepage.video_card.click",
+  "website_url": "https://ai001.site/",
   "windows_url": ""
  },
  {
@@ -2369,7 +2369,7 @@
   "owner_profile_url": "/accounts/profile/u/24f108/",
   "rating": 5,
   "review_count": 19,
-  "view_count": 839,
+  "view_count": 850,
   "web_url": "",
   "website_url": "https://data.inkgai.com/",
   "windows_url": ""
@@ -2419,7 +2419,7 @@
   "owner_profile_url": "/accounts/profile/u/a18328/",
   "rating": 5,
   "review_count": 1,
-  "view_count": 1046,
+  "view_count": 1139,
   "web_url": "",
   "website_url": "https://syngram.cn/",
   "windows_url": ""
@@ -3044,7 +3044,7 @@
   "owner_profile_url": "/accounts/profile/u/b28e51/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 127,
+  "view_count": 128,
   "web_url": "",
   "website_url": "https://5f17a898.r32.cpolar.top/hold_view",
   "windows_url": ""
@@ -3194,7 +3194,7 @@
   "owner_profile_url": "/accounts/profile/u/65369c/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 121,
+  "view_count": 122,
   "web_url": "",
   "website_url": "",
   "windows_url": ""
@@ -3294,7 +3294,7 @@
   "owner_profile_url": "/accounts/profile/u/1d84f9/",
   "rating": 5,
   "review_count": 1,
-  "view_count": 28,
+  "view_count": 30,
   "web_url": "",
   "website_url": "https://qiguanche.com/",
   "windows_url": ""
@@ -3319,7 +3319,7 @@
   "owner_profile_url": "/accounts/profile/u/041335/",
   "rating": 5,
   "review_count": 1,
-  "view_count": 43,
+  "view_count": 46,
   "web_url": "",
   "website_url": "https://oek.cn/",
   "windows_url": ""
@@ -3327,12 +3327,12 @@
  {
   "android_url": "",
   "created_at": "2026-10-26T22:36:18.998789+08:00",
-  "description": "FINORA 是一个可复核的 AI 金融情报与研究工作台。\n\n它把市场事件整理成一条研究链：事件雷达持续扫描公开信息，先保留来源与引用、标注数据时间，再生成结构化研究（事实 / 数据 / 影响链 / 多空情景 / 未知项），并在 24h / 7d 后用真实市场结果复盘。\n\n核心能力：事件雷达与可溯源研究、图表与量化研究、模拟研究账户、公开复盘、自选与预警、每日简报与财经日历。\n\n免费档即可看实时行情与市场榜单；注册并验证邮箱送 7 天完整 Pro；所有会员 6.8 折，截止 11 月 18 日。\n\nFINORA 只做信息与研究：不提供交易指令、不代客交易、不接券商、不托管资金、不承诺收益。",
+  "description": "FINORA AI｜别人卖结论，我们给证据链。\n打开任何一个「AI 选股」产品，你会得到一句结论：看多、看空、目标价。 但你不知道它凭什么、有多大把握、上次对不对。\n\nFINORA AI 把这条黑箱拆开：一条新闻怎么变成研究、一句判断怎么被验证、一个策略怎么被证伪，全部摊在桌面上。\n\n① 一条新闻，拆成九段\n事实（发生了什么）、数据（关键数字）、成因（为什么）、影响（影响谁）、多头情景、空头情景、风险（最该担心的）、AI 观点与置信度，以及 UNKNOWN——它还不知道什么。\n\n最后那一栏最重要。大多数产品不会写「我不知道」，我们把它写进正文，因为一次诚实的未知，比十次自信的猜测更有用。\n\n② 说过的每句话，都会被自己打分\n每条观点保存事件时点的价格，24 小时与 7 天后自动复盘对错。准确率、对错明细全站公开，不挑成功案例展示。\n\n你能看到它什么时候错、错在哪一类事件上。一个敢被复盘的判断，才值得你花时间读。\n\n③ 策略要过随机基线这一关\n量化工作台提供回测、walk-forward 分段验证、蒙特卡洛扰动，以及随机基线对照——把策略和「随机买卖」放在同一条跑道上比。\n\n很多看起来漂亮的曲线，在随机面前根本站不住。这一步不是为了让策略更好看，是为了让它更可信。\n\n④ 模拟盘按真实规则收钱\nmaker/taker 成本、按盘口深度分批成交、半平仓、止损限价 / OCO / 改价 / 只减仓 / 挂单过期、每 8 小时资金费结算、空头借币费——这些在别的模拟盘里常常被忽略，在这里全部进账。\n\n账户级输出胜率、盈亏比、期望、夏普、最大回撤，明细可导出。纸面收益和真实成本之间的差距，这里会算给你看。\n\n⑤ 最后才谈「用」\n自选监控、多通道提醒（应用内 / 推送 / 邮件 / 短信 / Telegram）、组合体检、财经日历、A 股打新与港股递表、每日简报与语音简报，Web 与 iOS 同步。\n\n覆盖 A 股、ETF、港股、美股、外汇、贵金属与加密资产。所有 AI 生成内容带标识与来源，行情带数据时间，新闻保留原文链接。\n\n适合谁\n愿意花时间看证据、而不是等一个代码的人；想验证自己的策略、而不是听消息的人。\n\n不适合谁\n想要「明天买什么」的人。我们不给，也不会给。\n\n边界\nFINORA 不是券商、不是投顾；不荐股、不代操盘、不承诺收益。回测与模拟盘结果不代表实盘或未来表现。所有内容为研究参考，不构成投资建议。\n\n开始\n注册即享 7 天完整 Pro，到期自动降级，不扣费。\n\nfinoraai.cn",
   "id": "opc_1d995e723c15e781cd0b26fcc6f4656b",
   "ios_url": "",
-  "logo_thumbnail_2x_url": "/opcpay/api/v1/opc/products/opc_1d995e723c15e781cd0b26fcc6f4656b/images/logo?size=192&v=wm2.thumb1.15ccf43b1f26cb4d",
-  "logo_thumbnail_url": "/opcpay/api/v1/opc/products/opc_1d995e723c15e781cd0b26fcc6f4656b/images/logo?size=96&v=wm2.thumb1.15ccf43b1f26cb4d",
-  "logo_url": "/opcpay/api/v1/opc/products/opc_1d995e723c15e781cd0b26fcc6f4656b/images/logo?v=wm2.15ccf43b1f26cb4d",
+  "logo_thumbnail_2x_url": "/opcpay/api/v1/opc/products/opc_1d995e723c15e781cd0b26fcc6f4656b/images/logo?size=192&v=wm2.thumb1.9a0ce4132395b0b0",
+  "logo_thumbnail_url": "/opcpay/api/v1/opc/products/opc_1d995e723c15e781cd0b26fcc6f4656b/images/logo?size=96&v=wm2.thumb1.9a0ce4132395b0b0",
+  "logo_url": "/opcpay/api/v1/opc/products/opc_1d995e723c15e781cd0b26fcc6f4656b/images/logo?v=wm2.9a0ce4132395b0b0",
   "macos_url": "",
   "miniprogram_link": "",
   "miniprogram_qr_id": null,
@@ -3342,9 +3342,9 @@
   "owner_id": 131514,
   "owner_name": "碳基圈_107f35",
   "owner_profile_url": "/accounts/profile/u/93d377/",
-  "rating": 0,
-  "review_count": 0,
-  "view_count": 67,
+  "rating": 5,
+  "review_count": 13,
+  "view_count": 111,
   "web_url": "",
   "website_url": "https://finoraai.cn/promo",
   "windows_url": ""
@@ -3419,7 +3419,7 @@
   "owner_profile_url": "/accounts/profile/u/9847c7/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 26,
+  "view_count": 30,
   "web_url": "",
   "website_url": "http://www.xoyplay.cn/",
   "windows_url": ""
@@ -3519,7 +3519,7 @@
   "owner_profile_url": "/accounts/profile/u/39b58d/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 16,
+  "view_count": 17,
   "web_url": "",
   "website_url": "https://www.startraceai.com/",
   "windows_url": ""
@@ -3569,7 +3569,7 @@
   "owner_profile_url": "/accounts/profile/u/d52cbc/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 26,
+  "view_count": 27,
   "web_url": "",
   "website_url": "https://www.chengjianai.com/",
   "windows_url": ""
@@ -3619,7 +3619,7 @@
   "owner_profile_url": "/accounts/profile/u/74f9b8/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 24,
+  "view_count": 27,
   "web_url": "",
   "website_url": "https://lingpu.example/",
   "windows_url": ""
@@ -3719,7 +3719,7 @@
   "owner_profile_url": "/accounts/profile/u/ac58be/",
   "rating": 5,
   "review_count": 1,
-  "view_count": 533,
+  "view_count": 534,
   "web_url": "",
   "website_url": "https://nanobananapro.cyou/?invitedByCode=VP8SS7PG&inWebsiteSource=invitedByCode",
   "windows_url": ""
@@ -3769,7 +3769,7 @@
   "owner_profile_url": "/accounts/profile/u/6a2666/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 61,
+  "view_count": 62,
   "web_url": "",
   "website_url": "https://keyvibe.top/pdd_hbs/",
   "windows_url": ""
@@ -3794,9 +3794,9 @@
   "owner_profile_url": "/accounts/profile/u/a4fa24/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 34,
+  "view_count": 37,
   "web_url": "",
-  "website_url": "https://www.dhs.so/",
+  "website_url": "https://www.dsh.so/",
   "windows_url": ""
  },
  {
@@ -3869,7 +3869,7 @@
   "owner_profile_url": "/accounts/profile/u/7cc92c/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 493,
+  "view_count": 563,
   "web_url": "",
   "website_url": "http://dh.dcsnet.cn/static/tools/minapp/bk/kj",
   "windows_url": ""
@@ -3969,7 +3969,7 @@
   "owner_profile_url": "/accounts/profile/u/d039da/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 31,
+  "view_count": 32,
   "web_url": "",
   "website_url": "https://www.jinhulai.com/",
   "windows_url": ""
@@ -4044,7 +4044,7 @@
   "owner_profile_url": "/accounts/profile/u/796943/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 48,
+  "view_count": 52,
   "web_url": "",
   "website_url": "https://share.feijipan.com/s/PhxlaCQa",
   "windows_url": ""
@@ -4094,7 +4094,7 @@
   "owner_profile_url": "/accounts/profile/u/0d1df3/",
   "rating": 5,
   "review_count": 1,
-  "view_count": 597,
+  "view_count": 598,
   "web_url": "",
   "website_url": "",
   "windows_url": ""
@@ -4219,7 +4219,7 @@
   "owner_profile_url": "/accounts/profile/u/c461f5/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 24,
+  "view_count": 25,
   "web_url": "",
   "website_url": "",
   "windows_url": ""
@@ -4644,7 +4644,7 @@
   "owner_profile_url": "/accounts/profile/u/41cfb8/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 28,
+  "view_count": 29,
   "web_url": "",
   "website_url": "https://www.jiaopei.site/",
   "windows_url": ""
@@ -4744,7 +4744,7 @@
   "owner_profile_url": "/accounts/profile/u/41cfb8/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 25,
+  "view_count": 27,
   "web_url": "",
   "website_url": "https://hairwig.store/",
   "windows_url": ""
@@ -4794,7 +4794,7 @@
   "owner_profile_url": "/accounts/profile/u/41cfb8/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 12,
+  "view_count": 14,
   "web_url": "",
   "website_url": "https://music.opcpro.online/",
   "windows_url": ""
@@ -4844,7 +4844,7 @@
   "owner_profile_url": "/accounts/profile/u/41cfb8/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 23,
+  "view_count": 26,
   "web_url": "",
   "website_url": "https://job.opcpro.online/",
   "windows_url": ""
@@ -4869,7 +4869,7 @@
   "owner_profile_url": "/accounts/profile/u/41cfb8/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 40,
+  "view_count": 42,
   "web_url": "",
   "website_url": "https://stock.opcpro.online/",
   "windows_url": ""
@@ -4919,7 +4919,7 @@
   "owner_profile_url": "/accounts/profile/u/41cfb8/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 27,
+  "view_count": 29,
   "web_url": "",
   "website_url": "https://novel.opcpro.online/",
   "windows_url": ""
@@ -4944,7 +4944,7 @@
   "owner_profile_url": "/accounts/profile/u/41cfb8/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 38,
+  "view_count": 41,
   "web_url": "",
   "website_url": "https://www.yinliushi.store/",
   "windows_url": ""
@@ -6919,7 +6919,7 @@
   "owner_profile_url": "/accounts/profile/u/b86d88/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 11,
+  "view_count": 12,
   "web_url": "",
   "website_url": "https://api.zzswitch.com/",
   "windows_url": ""
@@ -7119,7 +7119,7 @@
   "owner_profile_url": "/accounts/profile/u/539a93/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 13,
+  "view_count": 15,
   "web_url": "",
   "website_url": "https://www.iiclaw.cn/",
   "windows_url": ""
@@ -7394,7 +7394,7 @@
   "owner_profile_url": "/accounts/profile/u/fa407c/",
   "rating": 5,
   "review_count": 3,
-  "view_count": 1460,
+  "view_count": 1464,
   "web_url": "",
   "website_url": "https://quanter.ai-520.xyz/",
   "windows_url": ""
@@ -7844,7 +7844,7 @@
   "owner_profile_url": "/accounts/profile/u/21aff0/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 6,
+  "view_count": 8,
   "web_url": "",
   "website_url": "https://nova-x-ai.cn/",
   "windows_url": ""
@@ -8669,7 +8669,7 @@
   "owner_profile_url": "/accounts/profile/u/621d58/",
   "rating": 5,
   "review_count": 1,
-  "view_count": 822,
+  "view_count": 826,
   "web_url": "",
   "website_url": "https://wzyp.cn/shop/86CA7TA7",
   "windows_url": ""
@@ -9344,7 +9344,7 @@
   "owner_profile_url": "/accounts/profile/u/bdef2c/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 7,
+  "view_count": 11,
   "web_url": "",
   "website_url": "https://www.xiaoyingapi.com/console",
   "windows_url": ""
@@ -9594,7 +9594,7 @@
   "owner_profile_url": "/accounts/profile/u/e4f666/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 6,
+  "view_count": 7,
   "web_url": "",
   "website_url": "https://shop.myzjl.ccwu.cc/",
   "windows_url": ""
@@ -9644,7 +9644,7 @@
   "owner_profile_url": "/accounts/profile/u/b6f3c4/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 29,
+  "view_count": 30,
   "web_url": "",
   "website_url": "https://docs.qq.com/doc/DYmJPQW1UZGd3a0ZE",
   "windows_url": ""
@@ -9694,7 +9694,7 @@
   "owner_profile_url": "/accounts/profile/u/a5b049/",
   "rating": 5,
   "review_count": 1,
-  "view_count": 28,
+  "view_count": 29,
   "web_url": "",
   "website_url": "https://www.xuanshu.life/",
   "windows_url": ""
@@ -10319,7 +10319,7 @@
   "owner_profile_url": "/accounts/profile/u/f41c1f/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 14,
+  "view_count": 16,
   "web_url": "",
   "website_url": "https://music893.top/reader/xinqingmei/",
   "windows_url": ""
@@ -10419,7 +10419,7 @@
   "owner_profile_url": "/accounts/profile/u/36c39f/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 41,
+  "view_count": 44,
   "web_url": "",
   "website_url": "https://hepingjingying.com/",
   "windows_url": ""
@@ -10569,7 +10569,7 @@
   "owner_profile_url": "/accounts/profile/u/63ce87/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 1828,
+  "view_count": 1894,
   "web_url": "",
   "website_url": "https://trade1469.com/?utm_source=opcstore",
   "windows_url": ""
@@ -10794,7 +10794,7 @@
   "owner_profile_url": "/accounts/profile/u/da6005/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 17,
+  "view_count": 18,
   "web_url": "",
   "website_url": "http://123.57.32.242:8765/",
   "windows_url": ""
@@ -11119,7 +11119,7 @@
   "owner_profile_url": "/accounts/profile/u/14331b/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 2,
+  "view_count": 4,
   "web_url": "",
   "website_url": "https://dudu.tools/",
   "windows_url": ""
@@ -11769,7 +11769,7 @@
   "owner_profile_url": "/accounts/profile/u/e8a647/",
   "rating": 5,
   "review_count": 2,
-  "view_count": 15,
+  "view_count": 16,
   "web_url": "",
   "website_url": "https://canquantong.com/",
   "windows_url": ""
@@ -11902,7 +11902,7 @@
  {
   "android_url": "",
   "created_at": "2026-10-28T17:03:43.845731+08:00",
-  "description": "视觉AI支持图片/视频和音频协同创作,搭载Seedance2.5视频模型,支持重拍/逐帧拉片/5分钟直出视频。视觉AI聚合多个模型的AI创作平台,支持0门槛创作图片/视频/音频等多媒体资产,一个想法直接变视频",
+  "description": "可映AI支持图片/视频和音频协同创作,搭载Seedance2.5视频模型,支持重拍/逐帧拉片/5分钟直出视频。视觉AI聚合多个模型的AI创作平台,支持0门槛创作图片/视频/音频等多媒体资产,一个想法直接变视频",
   "id": "opc_06adc518f14f1e176ecbd64a1b98842d",
   "ios_url": "",
   "logo_thumbnail_2x_url": "/opcpay/api/v1/opc/products/opc_06adc518f14f1e176ecbd64a1b98842d/images/logo?size=192&v=wm2.thumb1.f76763e42b822b44",
@@ -11912,7 +11912,7 @@
   "miniprogram_link": "",
   "miniprogram_qr_id": null,
   "miniprogram_qr_url": "",
-  "name": "视觉AI（满血Seedance 2.5不排队）",
+  "name": "可映AI",
   "owner_dm_url": "/messages/dm/u/6375b1/",
   "owner_id": 132449,
   "owner_name": "碳基圈_74b61c",
@@ -12419,7 +12419,7 @@
   "owner_profile_url": "/accounts/profile/u/3998a0/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 3,
+  "view_count": 4,
   "web_url": "",
   "website_url": "https://fanbox980.wu138di.com/",
   "windows_url": ""
@@ -12844,7 +12844,7 @@
   "owner_profile_url": "/accounts/profile/u/21d4e4/",
   "rating": 5,
   "review_count": 1,
-  "view_count": 10,
+  "view_count": 11,
   "web_url": "",
   "website_url": "",
   "windows_url": ""
@@ -13019,7 +13019,7 @@
   "owner_profile_url": "/accounts/profile/u/dcca07/",
   "rating": 5,
   "review_count": 6,
-  "view_count": 1213,
+  "view_count": 1227,
   "web_url": "",
   "website_url": "https://stock.tk0755.top/",
   "windows_url": ""
@@ -13144,7 +13144,7 @@
   "owner_profile_url": "/accounts/profile/u/a5c571/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 2,
+  "view_count": 4,
   "web_url": "",
   "website_url": "https://learn.meoo.zone/",
   "windows_url": ""
@@ -13194,7 +13194,7 @@
   "owner_profile_url": "/accounts/profile/u/56fac6/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 10,
+  "view_count": 11,
   "web_url": "",
   "website_url": "https://fk.abct.cc/",
   "windows_url": ""
@@ -14119,7 +14119,7 @@
   "owner_profile_url": "/accounts/profile/u/de316b/",
   "rating": 5,
   "review_count": 1,
-  "view_count": 1173,
+  "view_count": 1176,
   "web_url": "",
   "website_url": "http://1234567ai.com/",
   "windows_url": ""
@@ -15419,7 +15419,7 @@
   "owner_profile_url": "/accounts/profile/u/909f7c/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 1,
+  "view_count": 2,
   "web_url": "",
   "website_url": "https://switchman.app/",
   "windows_url": ""
@@ -15594,7 +15594,7 @@
   "owner_profile_url": "/accounts/profile/u/dd0b76/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 3,
+  "view_count": 4,
   "web_url": "",
   "website_url": "",
   "windows_url": ""
@@ -15794,7 +15794,7 @@
   "owner_profile_url": "/accounts/profile/u/b4cf55/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 32,
+  "view_count": 36,
   "web_url": "",
   "website_url": "http://1.95.130.225:4173/",
   "windows_url": ""
@@ -15819,7 +15819,7 @@
   "owner_profile_url": "/accounts/profile/u/b4cf55/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 6,
+  "view_count": 7,
   "web_url": "",
   "website_url": "http://aigc.shoesdr.com/",
   "windows_url": ""
@@ -16219,7 +16219,7 @@
   "owner_profile_url": "/accounts/profile/u/65ab0e/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 15,
+  "view_count": 16,
   "web_url": "",
   "website_url": "https://shequnziyuan.vip/",
   "windows_url": ""
@@ -17094,7 +17094,7 @@
   "owner_profile_url": "/accounts/profile/u/491efa/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 20,
+  "view_count": 22,
   "web_url": "",
   "website_url": "https://my.360kan.com/",
   "windows_url": ""
@@ -17969,7 +17969,7 @@
   "owner_profile_url": "/accounts/profile/u/0a857b/",
   "rating": 5,
   "review_count": 3,
-  "view_count": 6952,
+  "view_count": 6975,
   "web_url": "",
   "website_url": "https://baizhu.vip/",
   "windows_url": ""
@@ -17994,7 +17994,7 @@
   "owner_profile_url": "/accounts/profile/u/6e71bc/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 388,
+  "view_count": 391,
   "web_url": "",
   "website_url": "https://api.llmgo.net/",
   "windows_url": ""
@@ -18152,7 +18152,7 @@
  {
   "android_url": "",
   "created_at": "2026-10-29T22:47:19.443758+08:00",
-  "description": "测试",
+  "description": "获客软件",
   "id": "opc_959de2661f921d34218c866eabb871fa",
   "ios_url": "",
   "logo_thumbnail_2x_url": "/opcpay/api/v1/opc/products/opc_959de2661f921d34218c866eabb871fa/images/logo?size=192&v=wm2.thumb1.de6526e10b290971",
@@ -18162,16 +18162,16 @@
   "miniprogram_link": "",
   "miniprogram_qr_id": null,
   "miniprogram_qr_url": "",
-  "name": "貂蝉静点餐平台",
+  "name": "获客",
   "owner_dm_url": "/messages/dm/u/05f4fa/",
   "owner_id": 131056,
-  "owner_name": "碳基圈_668d37",
+  "owner_name": "AI获客大王",
   "owner_profile_url": "/accounts/profile/u/05f4fa/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 2,
+  "view_count": 6,
   "web_url": "",
-  "website_url": "https://test.aaa/",
+  "website_url": "https://huoke.villagecooklady.asia/",
   "windows_url": ""
  },
  {
@@ -18419,7 +18419,7 @@
   "owner_profile_url": "/accounts/profile/u/5cb937/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 239,
+  "view_count": 243,
   "web_url": "",
   "website_url": "https://prodclub.xyz/r/4YF2RH",
   "windows_url": ""
@@ -18544,7 +18544,7 @@
   "owner_profile_url": "/accounts/profile/u/91ab64/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 11,
+  "view_count": 13,
   "web_url": "",
   "website_url": "https://www.aizcx.com/",
   "windows_url": ""
@@ -19094,7 +19094,7 @@
   "owner_profile_url": "/accounts/profile/u/9781c4/",
   "rating": 0,
   "review_count": 0,
-  "view_count": 27,
+  "view_count": 28,
   "web_url": "",
   "website_url": "https://jlhc.eu.cc/",
   "windows_url": ""
@@ -19469,7 +19469,7 @@
   "owner_profile_url": "/accounts/profile/u/f3cef8/",
   "rating": 5,
   "review_count": 1,
-  "view_count": 1160,
+  "view_count": 1163,
   "web_url": "",
   "website_url": "https://buy.wxai.shop/?src=火了没",
   "windows_url": ""
